@@ -63,7 +63,7 @@ const Sidebar = () => {
       name: "Inventory",
       icon: CubeIcon,
       subItems: [
-        { name: "Products", path: "inventory/products", icon: CubeIcon },
+        { name: "Products", path: "/inventory/products", icon: CubeIcon },
         {
           name: "Categories",
           path: "/inventory/categories",
